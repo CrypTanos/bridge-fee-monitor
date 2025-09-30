@@ -1,0 +1,11 @@
+
+Each snapshot contains:
+```json
+{
+  "ts": "2025-09-30T16:49:09+00:00",
+  "route": "Base→Ethereum L1",
+  "bridges": {
+    "Across": { "USDC": {"fee_ppm": 120, "eta_min": 4}, "ETH": {"fee_ppm": 95, "eta_min": 5} },
+    "Hop":    { "USDC": {"fee_ppm": 210, "eta_min": 7}, "ETH": {"fee_ppm": 180, "eta_min": 8} }
+  }
+}
