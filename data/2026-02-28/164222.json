@@ -1,0 +1,46 @@
+{
+  "ts": "2026-02-28T16:42:22+00:00",
+  "route": "Base\u2192Ethereum L1",
+  "bridges": {
+    "Across": {
+      "USDC": {
+        "fee_ppm": 302,
+        "eta_min": 15
+      },
+      "ETH": {
+        "fee_ppm": 419,
+        "eta_min": 4
+      }
+    },
+    "Hop": {
+      "USDC": {
+        "fee_ppm": 413,
+        "eta_min": 16
+      },
+      "ETH": {
+        "fee_ppm": 282,
+        "eta_min": 21
+      }
+    },
+    "Meson": {
+      "USDC": {
+        "fee_ppm": 450,
+        "eta_min": 5
+      },
+      "ETH": {
+        "fee_ppm": 408,
+        "eta_min": 4
+      }
+    },
+    "Orbiter": {
+      "USDC": {
+        "fee_ppm": 131,
+        "eta_min": 13
+      },
+      "ETH": {
+        "fee_ppm": 130,
+        "eta_min": 9
+      }
+    }
+  }
+}
